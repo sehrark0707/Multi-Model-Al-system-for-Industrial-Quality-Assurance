@@ -1,6 +1,8 @@
 # Multi-Model-Al-system-for-Industrial-Quality-Assurance
 An AI-driven computer vision system that automates defect detection on manufacturing lines, ensuring consistent product quality and reducing the need for manual inspection.
+
 Progress Log
+
 Week 1: Python Basics
 I kicked things off by setting up my workspace in Google Colab and Kaggle. I spent time getting comfortable with Python basics—like loops, dictionaries, and functions—before touching briefly on the basic theory behind machine learning.
 
