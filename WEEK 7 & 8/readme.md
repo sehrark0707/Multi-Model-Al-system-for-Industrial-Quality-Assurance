@@ -34,3 +34,6 @@ python -m streamlit run app.py
 Using the python -m prefix is highly recommended as it helps avoid common Windows PATH errors.
 
 After the server starts a new browser tab will open where you can upload steel images and test the entire pipeline.
+
+Since the best.pt file is too large to upload to github, I've added it to a drive link and it is to be with the app.py file in order to streamlit to run localhost
+https://drive.google.com/file/d/11jo4cCmre9wV-Sz0zTYKrhVOWBTODwrP/view?usp=sharing
